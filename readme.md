@@ -1,6 +1,8 @@
 # Machine Learning Practice 2024
 
 This repository contains my journey and practice work in machine learning for the year 2024. As a promise to myself, I committed to learning and implementing a wide range of machine learning algorithms and concepts. Here's a summary of the topics I have completed:
+## Data Visualization
+![Scatter Plot Example](https://machinelearningmastery.com/wp-content/uploads/2022/03/bokeh_scatter.png)
 
 ## Topics Covered
 
