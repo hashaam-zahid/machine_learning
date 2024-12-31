@@ -91,5 +91,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 Feel free to reach out if you have questions or suggestions:
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Developer**: Hashaam Zahid
+- **GitHub**: [Hashaam Zahid](https://github.com/hashaam-zahid)
