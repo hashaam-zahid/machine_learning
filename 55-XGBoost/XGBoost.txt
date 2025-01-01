@@ -2,7 +2,7 @@
 """
 
 
-@author: Fahad Hussain
+@author: Hashaam Zahid
 """
 
 !pip3 install xgboost
